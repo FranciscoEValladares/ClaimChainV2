@@ -1,1 +1,1 @@
-# ClaimChainV2
+# ClaimChain v2
